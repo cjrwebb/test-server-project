@@ -1,0 +1,12 @@
+name: test-server-project
+title: test-server-project
+username:
+account: webb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3089947
+bundleId: 3779826
+url: https://webb.shinyapps.io/test-server-project/
+when: 1603619111.36412
+asMultiple: FALSE
+asStatic: FALSE
